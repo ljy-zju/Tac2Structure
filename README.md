@@ -3,7 +3,7 @@
 
 
 ## 1. Introduction
-**Tac2Structure** is a  novel Tactile surface reconstruction framework, which can accurately estimate the egomotion of the tactile sensor and reconstruct object surfaces with low drift. Our preprint paper is available [here](https://arxiv.org/abs/2209.06545).
+**Tac2Structure** is a  novel Tactile surface reconstruction framework, which can accurately estimate the egomotion of the tactile sensor and reconstruct object surfaces with low drift. Our preprint paper is available [here](https://arxiv.org/abs/2209.06545)(V2 is coming).
 
 ## 2. Usage of toolbox
 ```
