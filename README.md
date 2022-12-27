@@ -14,6 +14,6 @@ python data_toolbox.py
 Replace the path in the .py file with where you want to write the .xls file in.
 
 ## 3. Demo video
-Our accompanying videos are now available on Bilibili<sup>[1](https://www.bilibili.com/video/)
+Our accompanying videos are now available on Bilibili<sup>[1](https://www.bilibili.com/video/BV1cY411U7gh?share_source=copy_web)
 
 
