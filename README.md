@@ -16,4 +16,11 @@ Replace the path in the .py file with where you want to write the .xls file in.
 ## 3. Demo video
 Our accompanying videos are now available on Bilibili<sup>[1](https://www.bilibili.com/video/BV1cY411U7gh?share_source=copy_web)
 
+## License
+The source code is released under [GPLv2](http://www.gnu.org/licenses/) license.
 
+We are still working on improving the performance and reliability of our codes. For any technical issues, please contact me via email Junyuan Lu < junyl@zju.edu.cn >.
+
+If you use any code of this repo in your academic research, **please cite our paper**:
+
+Junyuan Lu, Zeyu Wan, Yu Zhang. "Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch."
