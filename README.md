@@ -21,6 +21,6 @@ The source code is released under [GPLv2](http://www.gnu.org/licenses/) license.
 
 We are still working on improving the performance and reliability of our codes. For any technical issues, please contact me via email Junyuan Lu < junyl@zju.edu.cn >.
 
-If you use any code of this repo in your academic research, **please cite our paper**:
+If you use any code of this repo in your academic research, **please cite our paper** (Accepted for publication in IEEE Robotics And Automation Letters):
 
 Junyuan Lu, Zeyu Wan, Yu Zhang. "Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch."
