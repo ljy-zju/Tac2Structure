@@ -28,9 +28,9 @@ Junyuan Lu, Zeyu Wan, Yu Zhang. "Tac2Structure: Object Surface Reconstruction On
 @ARTICLE{10021601,
   author={Lu, Junyuan and Wan, Zeyu and Zhang, Yu},
   journal={IEEE Robotics and Automation Letters}, 
-  title={Tac2Structure: Object Surface Reconstruction Only through Multi Times Touch}, 
+  title={Tac2Structure: Object Surface Reconstruction Only Through Multi Times Touch}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-8},
+  volume={8},
+  number={3},
+  pages={1391-1398},
   doi={10.1109/LRA.2023.3238190}}
