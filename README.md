@@ -21,7 +21,7 @@ The source code is released under [GPLv2](http://www.gnu.org/licenses/) license.
 
 We are still working on improving the performance and reliability of our codes. For any technical issues, please contact me via email Junyuan Lu < junyl@zju.edu.cn >.
 
-If you use any code of this repo in your academic research, **please cite our paper** (Accepted for publication in IEEE Robotics And Automation Letters):
+If you use any code of this repo in your academic research, **please cite our paper:**
 
 ```
 @ARTICLE{10021601,
